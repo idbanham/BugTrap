@@ -1,0 +1,8 @@
+Bad
+Bug
+Empty
+Good
+Green Weevil
+Pink Weevil
+Spider
+Wasp
